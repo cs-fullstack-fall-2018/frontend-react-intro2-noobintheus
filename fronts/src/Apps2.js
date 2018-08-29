@@ -35,3 +35,5 @@ class Apps2 extends Component {
 }
 
 export default Apps2;
+
+// the variable arry of collections should be in a Netflix component. I think this was supposed to be a DisplayMovie component, but the mapping didn't start. You'll have to complete the mapping of each element in order to return unique results to the variable to later call it in your render's return.
